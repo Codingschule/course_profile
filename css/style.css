@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: linear-gradient(90deg, rgba(255,92,92,1) 10%, rgb(61, 150, 204) 90%);
+	background-image: linear-gradient(90deg, rgb(100, 200, 218) 10%, rgb(202, 128, 221) 90%);
 	font-family: Montserrat, sans-serif;
 	
 	display: flex;
